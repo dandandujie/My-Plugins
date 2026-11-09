@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Update Guard",
+    "description": "Checks and stages plugin repairs against the next DeepSeek Harness release, then lets the desktop updater run."
+  }
+}

@@ -1,0 +1,3 @@
+- insert:
+    - id: update-guard
+      name: '@local/dsh-update-guard'

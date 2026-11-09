@@ -1,0 +1,3 @@
+- insert:
+    - id: update-guard-toy
+      name: '@local/update-guard-toy'

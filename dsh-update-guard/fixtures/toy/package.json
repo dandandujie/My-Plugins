@@ -1,0 +1,15 @@
+{
+  "name": "@local/update-guard-toy",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Update Guard facade fixture.",
+  "exports": {
+    ".": "./index.js"
+  },
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  }
+}

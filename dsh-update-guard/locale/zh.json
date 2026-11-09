@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "更新守卫",
+    "description": "在 DeepSeek Harness 更新前检查并暂存插件适配修复，确认无风险后再放行桌面更新。"
+  }
+}
