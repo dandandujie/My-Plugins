@@ -1,0 +1,3 @@
+- insert:
+    - id: learnharness
+      name: '@local/dsh-learnharness'

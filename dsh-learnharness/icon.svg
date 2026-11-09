@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="LearnHarness">
+  <defs>
+    <linearGradient id="lh-ink" x1="8" y1="4" x2="56" y2="60" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2d281f"/>
+      <stop offset="1" stop-color="#12100d"/>
+    </linearGradient>
+    <linearGradient id="lh-paper" x1="18" y1="18" x2="46" y2="49" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff7e7"/>
+      <stop offset="1" stop-color="#e8d7b8"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="60" height="60" rx="16" fill="url(#lh-ink)"/>
+  <rect x="2.75" y="2.75" width="58.5" height="58.5" rx="15.25" fill="none" stroke="#fff" stroke-opacity=".12" stroke-width="1.5"/>
+  <path d="M14.5 20.8c5.2-2.5 9.9-2 13.5 1.1v24.9c-3.6-3.1-8.3-3.6-13.5-1.1V20.8Z" fill="url(#lh-paper)"/>
+  <path d="M49.5 20.8c-5.2-2.5-9.9-2-13.5 1.1v24.9c3.6-3.1 8.3-3.6 13.5-1.1V20.8Z" fill="url(#lh-paper)" fill-opacity=".82"/>
+  <path d="M28 21.9 32 45.8l4-23.9" fill="none" stroke="#b39b74" stroke-width="1.8" stroke-linecap="round"/>
+  <path d="M45.7 13.2v8.2M41.6 17.3h8.2" stroke="#f2a33a" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="45.7" cy="17.3" r="2.1" fill="#f2a33a"/>
+</svg>
